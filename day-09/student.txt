@@ -1,0 +1,36 @@
+Name: wilfred
+Course: computer science
+
+Name: joan
+Course: accounts
+
+Name: peter
+Course: medicine
+
+Name: wilfred
+Course: computer science
+
+Name: john
+Course: accounts
+
+Name: peter
+Course: medicine
+
+Name: john
+Course: medicine
+
+Name: jane
+Course: accounts
+
+Name: peter
+Course: education
+
+Name: wilfred
+Course: computer science
+
+Name: john
+Course: accounts
+
+Name: jane
+Course: medicine
+

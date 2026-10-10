@@ -1,0 +1,22 @@
+[
+    {
+        "name": "wilfred",
+        "age": 21,
+        "course": "computer science"
+    },
+    {
+        "name": "john",
+        "age": 20,
+        "course": "computer science"
+    },
+    {
+        "name": "james",
+        "age": 21,
+        "course": "computer science"
+    },
+    {
+        "name": "joan",
+        "age": 19,
+        "course": "accounts"
+    }
+]
